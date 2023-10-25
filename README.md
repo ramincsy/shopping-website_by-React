@@ -1,5 +1,7 @@
-![Logo](https://github.com/ramincsy/shopping-website/blob/main/temp.png)
 ## Online Store with React.js
+<div align="center">
+  <img src="https://github.com/ramincsy/shopping-website/blob/main/temp.png" width="600">
+</div>
 
 Welcome to our React.js-powered online store project! This project serves as an excellent resource for academic exercises, university projects, and a hands-on learning experience in the realm of React and various related concepts.
 
