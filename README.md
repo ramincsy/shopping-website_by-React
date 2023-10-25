@@ -1,3 +1,4 @@
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 ## Online Store with React.js
 
 Welcome to our React.js-powered online store project! This project serves as an excellent resource for academic exercises, university projects, and a hands-on learning experience in the realm of React and various related concepts.
