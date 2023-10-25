@@ -3,8 +3,8 @@
   <img src="https://github.com/ramincsy/shopping-website/blob/main/temp.png" width="300">
 </div>
 <div align="center">
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/1.png]" width="400" height="300" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/2.png]" width="400" height="300" />
+  <img src="https://github.com/ramincsy/shopping-website_by-React/blob/main/1.png" width="400" />
+  <img src="https://github.com/ramincsy/shopping-website_by-React/blob/main/2.png" width="400" height="300" />
   <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/3.png]" width="400" height="300" />
   <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/4.png]" width="400" height="300" />
   <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/5.png]" width="400" height="300" />
