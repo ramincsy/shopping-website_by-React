@@ -3,12 +3,11 @@
   <img src="https://github.com/ramincsy/shopping-website/blob/main/temp.png" width="300">
 </div>
 <div align="center">
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/1.JPG]" width="200" height="100" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/2.JPG]" width="200" height="100" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/3.JPG]" width="200" height="100" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/4.JPG]" width="200" height="100" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/5.JPG]" width="200" height="100" />
-  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/6.JPG]" width="200" height="100" />
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/1.JPG]" width="300" height="200" />
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/2.JPG]" width="300" height="200" />
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/3.JPG]" width="300" height="200" />
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/5.JPG]" width="300" height="200" />
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/6.JPG]" width="300" height="200" />
 </div>
 
 
