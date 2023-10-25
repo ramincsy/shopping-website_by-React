@@ -2,6 +2,15 @@
 <div align="center">
   <img src="https://github.com/ramincsy/shopping-website/blob/main/temp.png" width="300">
 </div>
+<p align="center">
+  <img src="[https://github.com/ramincsy/shopping-website_by-React/blob/main/1.JPG]" width="100" height="100" />
+  <img src="image2.jpg" width="100" height="100" />
+  <img src="image3.jpg" width="100" height="100" />
+  <img src="image4.jpg" width="100" height="100" />
+  <img src="image5.jpg" width="100" height="100" />
+  <img src="image6.jpg" width="100" height="100" />
+</p>
+
 
 Welcome to our React.js-powered online store project! This project serves as an excellent resource for academic exercises, university projects, and a hands-on learning experience in the realm of React and various related concepts.
 
